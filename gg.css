@@ -1,0 +1,9 @@
+.container{
+    padding:1rem;
+    border:2rem;
+    margin:2rem;
+    color:darkgreen;
+}
+*{
+    background-color: bisque;
+}
